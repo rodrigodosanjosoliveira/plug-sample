@@ -1,4 +1,6 @@
-# Example
+# Plug Example
+
+Especificação para componentes de aplicação web e adaptadores para servidores web. 
 
 ## Elixir School **Plug** sample.
 
@@ -10,7 +12,7 @@ by adding `example` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:example, "~> 0.1.0"}
+    {:plug_cowboy, "~> 2.0"},
   ]
 end
 ```
