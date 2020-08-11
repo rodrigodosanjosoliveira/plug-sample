@@ -1,6 +1,6 @@
 # Example
 
-**TODO: Add description**
+## Elixir School **Plug** sample.
 
 ## Installation
 
